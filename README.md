@@ -1,9 +1,9 @@
 # Curso SQL SERVER
 ### Curso de SQL Sever (T-SQL) Boson Treinamentos
 #### Temas abordados durante o curso foram:
-- Create Table - Criando um Banco de Dados.
-- Constraints, Primary Key, Foreign Key, Unique, Not Null, Check, Default.
-- Criando Tabelas.
+- Create DataBase (Criando um Banco de Dados).
+- Constraints (Restrições), Primary Key (Chave Primária), Foreign Key (Chave Estrangeira), Unique (Restrição), Not Null (Não Nulo), Check (Restrição), Default (Valor Padrão).
+- Create Table - Criando Tabelas.
 - Identity.
 - Alter e Drop.
 - Insert Into e Values.
