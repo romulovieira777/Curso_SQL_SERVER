@@ -1,6 +1,6 @@
 # Curso SQL SERVER
 ### Curso de SQL Sever (T-SQL) Boson Treinamentos
-#### Temas abordados durante o curso foram:
+#### :computer: Temas abordados durante o curso foram:
 - Create DataBase (Criando um Banco de Dados).
 - Constraints (Restrições).
 - Primary Key (Chave Primária).
