@@ -32,4 +32,12 @@
 - Max (Valor Máximo)
 - Min (Valor Mínimo)
 - Avg (Média Aritmética)).
-- Between (Seleção de Intervalo em Registros). 
+- Between (Seleção de Intervalo em Registros).
+- Like (Determina se uma Cadeia de Caracteres são Correspondente).
+- Not Like (Inverte a Comparação de uma Caracteres).
+- Joins (Selecionar Dados de Duas ou Mais Tabelas).
+- Inner Join (Retorna Linhas Quando Houver Pelo Menos uma Correspondência em Ambas as Tabelas).
+- Outer Join (Retorna Linhas Mesmo Quando Não Houver Pelo Menos uma Correspondência em uma das Tabelas ou Ambas).
+- Left Join (Retorna Todas as Linhas da Tabela da Esquerda, Mesmo se Não Houver Nenhuma Correspondência na Tabela à Direita).
+- Right Join (Retorna Todas as Linhas da tabela da Direita, Mesmo se Não Houver nenhuma Correspondência na Tabela à Esquerda).
+- Full Join (Retorna Linhas Quando Houver uma Correspondência em Qualquer uma das Tabelas).
