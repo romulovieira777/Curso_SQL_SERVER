@@ -41,3 +41,7 @@
 - Left Join (Retorna Todas as Linhas da Tabela da Esquerda, Mesmo se Não Houver Nenhuma Correspondência na Tabela à Direita).
 - Right Join (Retorna Todas as Linhas da tabela da Direita, Mesmo se Não Houver nenhuma Correspondência na Tabela à Esquerda).
 - Full Join (Retorna Linhas Quando Houver uma Correspondência em Qualquer uma das Tabelas).
+- In (Determina se um Determinado Valor Corresponde a Qualquer Valor em uma Subconsulta ou Lista).
+- Not In (Exclui um Determinado Valor Selecionado na Consulta da Dados).
+- Campos Calculados.
+- Índices (Permitem que as Aplicações de Banco de Dados encontrem os Dados mais Rapidamente, sem ter que Ler a Tabela Toda).
