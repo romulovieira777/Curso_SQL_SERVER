@@ -45,3 +45,7 @@
 - Not In (Exclui um Determinado Valor Selecionado na Consulta da Dados).
 - Campos Calculados.
 - Índices (Permitem que as Aplicações de Banco de Dados encontrem os Dados mais Rapidamente, sem ter que Ler a Tabela Toda).
+- Create Rule (Criando Regras - Elas Permitem Especificar como Determinados Parâmetros do Banco de Dados Devem se Comportar).
+- Backup (Fazendo uma Cópia dos Dados).
+- Concatenação de Strings (Juntando uma String com Outra).
+- Collation (Agrupamento de Caracteres ou Colação).
