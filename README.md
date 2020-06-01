@@ -49,3 +49,6 @@
 - Backup (Fazendo uma Cópia dos Dados).
 - Concatenação de Strings (Juntando uma String com Outra).
 - Collation (Agrupamento de Caracteres ou Colação).
+- With Ties (É Usada para Retornar Todas as linhas que Tenham o Mesmo Valor para o Order By, como a Última Linha).
+- Views (É uma Exibição de uma Tabela Virtual Baseada no Conjunto de Resultados de uma Consulta).
+- Subqueries (Subconsultas é uma Declaração Embutida em uma Consulta Externa).
