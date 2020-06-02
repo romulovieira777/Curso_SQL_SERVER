@@ -52,3 +52,7 @@
 - With Ties (É Usada para Retornar Todas as linhas que Tenham o Mesmo Valor para o Order By, como a Última Linha).
 - Views (É uma Exibição de uma Tabela Virtual Baseada no Conjunto de Resultados de uma Consulta).
 - Subqueries (Subconsultas é uma Declaração Embutida em uma Consulta Externa).
+- CTE (É uma Variação de uma Subconsulta).
+- Variáveis (Declaração e Atribuição de Valores).
+- Cast (Conversão de Tipos de Dados).
+- Convert (Conversão de Tipos de Dados).
