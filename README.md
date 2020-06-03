@@ -56,3 +56,6 @@
 - Variáveis (Declaração e Atribuição de Valores).
 - Cast (Conversão de Tipos de Dados).
 - Convert (Conversão de Tipos de Dados).
+- IF / Else (Estrutura de Decisão).
+- Loop While (Estrutura de Repetição).
+- Stored Procedures (Procedimentos Armazenados).
