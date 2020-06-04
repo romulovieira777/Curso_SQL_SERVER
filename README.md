@@ -59,3 +59,5 @@
 - IF / Else (Estrutura de Decisão).
 - Loop While (Estrutura de Repetição).
 - Stored Procedures (Procedimentos Armazenados).
+- Return (Retorna um Valor).
+- User - Defined Functions (Funções Definidas pelo Usuário).
