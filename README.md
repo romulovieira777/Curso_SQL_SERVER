@@ -61,3 +61,4 @@
 - Stored Procedures (Procedimentos Armazenados).
 - Return (Retorna um Valor).
 - User - Defined Functions (Funções Definidas pelo Usuário).
+- Triggers (É um Gatilho para Executar Determinada Tarefa no Banco de Dados).
