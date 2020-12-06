@@ -22,7 +22,7 @@
 - And (Filtra um Registro se Ambos Forem Verdadeiros em uma Consulta).
 - Or (Filtra um Registro se Pelo Menos uma das Condições Forem Verdadeiras em uma Consulta).
 - Update (Atualiza Registros dentro de uma Tabela).
-- Top (Retornar um NÚmero de Registros que foi Especificado).
+- Top (Retornar um Número de Registros que foi Especificado).
 - Alias AS (Nome Alternativa para Colunas ou Tabelas).
 - Union (Unir Resultados de Declarações Feitas no Select).
 - Select Into (Criar Nova Tabela a Partir de uma Tabela Existente).
