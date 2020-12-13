@@ -63,4 +63,4 @@
 - User - Defined Functions (Funções Definidas pelo Usuário).
 - Triggers (É um Gatilho para Executar Determinada Tarefa no Banco de Dados).
 
-Link para o curso: https://www.youtube.com/watch?v=1YQIRdWkMvs&list=PLucm8g_ezqNqI5cW3alteV5olcMCcHYRK
+Link para o curso 100% Gratuito: [Boson Treinamentos](https://www.youtube.com/watch?v=1YQIRdWkMvs&list=PLucm8g_ezqNqI5cW3alteV5olcMCcHYRK)
